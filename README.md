@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Mt Baker](Mt. Baker.jpeg)
+![Mt Baker](mt-baker.jpeg)
 
 - 🔭 I’m currently working on Even Organizer Website!
 - 🌱 I’m currently learning MERN Stack!
