@@ -4,12 +4,12 @@
 
 - 🔭 I’m currently working on Even Organizer Website!
 - 🌱 I’m currently learning MERN Stack!
-<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 👯 I’m looking to collaborate on -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ... -->
+- ⚡ Fun fact: you'll mostly find me up on a Mt. or cycling around Lake Washington
 - Thank you for visiting 👋! Here have some 🍟.
 
 <!--
