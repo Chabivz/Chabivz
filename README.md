@@ -2,10 +2,10 @@
 
 ![Mt Baker](mt-baker.jpeg)
 
-- 🔭 I’m currently working on Even Organizer Website!
+- 🔭 I’m currently working on Event Organizer Website!
 - 🌱 I’m currently learning MERN Stack!
-<!-- - 👯 I’m looking to collaborate on -->
-<!-- - 🤔 I’m looking for help with ... -->
+- 👯 I’m looking to collaborate on JS Projects
+- 🤔 I’m looking for help with Whiteboard Interview QA's
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
